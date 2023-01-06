@@ -10,7 +10,7 @@ const Navbar = () => {
         </div>
         <div className={styles.texts}>
           <div className={styles.text}>ORDER NOW</div>
-          <div className={styles.text}>+234-9015-242-117</div>
+          <div className={styles.text}>+234-901-524-2117</div>
         </div>
       </div>
       <div className={styles.item}>
